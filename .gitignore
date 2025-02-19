@@ -1,5 +1,5 @@
 # Solo la carpeta llamada "/hola"
-/hola
+/contenido
 
 # Todas las carpetas llamadas "/hola"
-**/hola
+**/contenido
